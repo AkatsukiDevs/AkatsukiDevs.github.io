@@ -1,0 +1,31 @@
+section{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.carousel-control-prev-icon{
+	background-image: url(../img/left-arrow.svg);
+}
+.carousel-control-next-icon{
+	background-image: url(../img/next.svg);
+}
+.carousel-control-next, .carousel-control-prev{
+	width: 20px;
+}
+.carousel-control-prev{
+	left: -35x;
+}
+.carousel-control-next{
+	left: -35x;
+}
+
+#video {
+	
+	position: relative;
+	
+}
+
+.center2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
